@@ -1,3 +1,6 @@
+![Альтернативный текст](https://github.com/Andrey-bit191/Telegram-Bot-Ai-Avatar/blob/main/AIA-tg-bot-sound-1.jpg?raw=true)
+![Альтернативный текст](https://github.com/Andrey-bit191/Telegram-Bot-Ai-Avatar/blob/main/AIA-tg-bot-sound-2.jpg?raw=true)
+![Альтернативный текст](https://github.com/Andrey-bit191/Telegram-Bot-Ai-Avatar/blob/main/AIA-tg-bot-sound-3.jpg?raw=true)
 # Telegram Bot Ai-Avatar 🤖🎙️
 
 **Telegram-бот на Python с ИИ-аватаром**, развёрнутый на [Railway](https://railway.app/), с импортом репозитория из GitHub через редактор [github.dev](https://github.dev).
